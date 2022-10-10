@@ -12,5 +12,5 @@ Using:
 To start the project:
 
 1. Clone the repository
-2. Run <code>npm install<code>
-3. Run <code>npm run dev<code>
+2. Run <code>npm install</code>
+3. Run <code>npm run dev</code>
